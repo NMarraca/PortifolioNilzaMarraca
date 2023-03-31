@@ -1,0 +1,49 @@
+          #div1{
+	      position:relative;
+		  top:10px;
+		  left: 20px;
+		  width: 800px;
+		  height: 150px;
+		  }
+		  
+		  #div2{
+	      position:relative;
+		  top:-145px;
+		  left: 800px;
+		  width: 50px;
+		  height: 15px;
+		  }
+		
+		h1{
+		text-align: center; color: purple; background-color: pink;
+		}	
+		  
+		h2{
+		color: purple;
+		background-color: pink;
+		}
+
+		body{
+			 
+			margin: 200px;
+			margin-top: 50px;
+			font-family: cursive;
+			}
+		
+	    table{
+	    	
+	  		font-family: cursive;
+	  		border-collapse: collapse;
+	  		width: 100%;
+	  	    }	
+		
+		th{
+		   background-color: pink; color: purple;
+           }
+		
+		td, th {
+	  		border: 1px solid #dddddd;
+			border-color: black;
+	  		text-align: left;
+	  		padding: 6px;
+		    }
